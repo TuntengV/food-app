@@ -1,2 +1,2 @@
 # food-app
-this for our food delivery app
+this is for our food delivery app
